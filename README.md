@@ -1,4 +1,4 @@
-#SMTP Server in Rust
+# SMTP Server in Rust
 An SMTP server in Rust, designed for learning and experimentation. The server listens for incoming client connections, processes SMTP commands, and handles basic email communication. It was built using the Tokio async runtime for handling concurrent connections.
 
 ## Features
